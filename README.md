@@ -14,5 +14,5 @@ Key features: Batch git operations
 
 - ![Git Pull](./gitPull.png)
 - ![Git Push](./gitPush.png)
-- ![Git Termux](./gitPullTermux.png)
+- ![Git Termux](./gitPullTermux.jpg)
 
