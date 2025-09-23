@@ -17,9 +17,13 @@ Key features: Batch git operations
 - ![Git Termux](./gitPullTermux.jpg)
 
 ## TimeExisting: The Existential Progress Tracker
-A darkly humorous Python CLI tool that transforms mundane time tracking into an existential experience. Built with Rich for beautiful terminal UI, it monitors work progress, break times, and seasonal changes while delivering philosophical commentary on the futility of corporate existence. Features ASCII art, smooth animations, weekend activity tracking, and a showcase mode to demo all states. Perfect for developers who appreciate dark humor and want to make their daily grind slightly more entertaining.
+A darkly humorous Python CLI tool that transforms mundane time tracking into an existential experience. Built with Rich for beautiful terminal UI, it monitors work progress, break times, and seasonal changes while delivering philosophical commentary on the futility of corporate existence. Features ASCII art, smooth animations, weekend activity tracking, and a showcase mode to demo all states. Perfect for developers who appreciate dark humor and want to make their daily grind slightly more entertaining.  
+
 Key Features: Real-time progress tracking, break notifications, seasonal themes, weekend vibes, rich terminal UI with ASCII art, and existentially dreadful commentary.
 
+Current situation
 - ![TimeTracking Latest](./progress_v13.png)
+
+How it started
 - ![How it started](./progress_v2.png)
 
