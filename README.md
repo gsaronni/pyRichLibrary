@@ -27,3 +27,4 @@ Current situation
 How it started
 - ![How it started](./progress/img/progress_v2.png)
 
+- ![onduty](./img/onduty.png)
