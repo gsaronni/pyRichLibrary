@@ -2,7 +2,7 @@
 
 Practical terminal tools with personality. Built with Python's Rich library for beautiful, functional CLI experiences.
 
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.7+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![Rich](https://img.shields.io/badge/rich-terminal-orange.svg)](https://github.com/Textualize/rich)
 
 ## Projects
